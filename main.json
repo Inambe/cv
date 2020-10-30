@@ -112,5 +112,32 @@
 			"language": "Urdu",
 			"fluency": "Fluent"
 		}
+	],
+	"skills": [
+		{
+			"name": "Web apps",
+			"level": "Expert",
+			"keywords": [
+				"HTML / CSS",
+				"JavaScript / React / Gatsby",
+				"Node.js / Express",
+				"PHP / WordPress / Slim PHP"
+			]
+		},
+		{
+			"name": "Mobile / Desktop apps",
+			"level": "Intermediate",
+			"keywords": ["Flutter / Dart", "Electron"]
+		},
+		{
+			"name": "Database systems",
+			"level": "Intermediate",
+			"keywords": ["MongoDB", "xSQL", "Firestore"]
+		},
+		{
+			"name": "Tools",
+			"level": "Expert",
+			"keywords": ["NPM", "Webpack", "Git / Github", "Linux OS"]
+		}
 	]
 }
