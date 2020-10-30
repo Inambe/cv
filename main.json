@@ -102,5 +102,15 @@
 			"awarder": "Chamber Of Commerce, Sialkot",
 			"summary": "Our group’s Final Year Project won 1st position in the whole Sialkot."
 		}
+	],
+	"languages": [
+		{
+			"language": "English",
+			"fluency": "Conversational"
+		},
+		{
+			"language": "Urdu",
+			"fluency": "Fluent"
+		}
 	]
 }
