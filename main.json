@@ -65,5 +65,28 @@
 				"Fixed WordPress websites"
 			]
 		}
+	],
+	"education": [
+		{
+			"institution": "GCT, Sialkot",
+			"area": "DAE Electronics",
+			"studyType": "Intermediate",
+			"startDate": "Aug 2014",
+			"endDate": "Aug 2017",
+			"gpa": "80.01%",
+			"courses": [
+				"Applied Electronics / Electrical",
+				"Communication Systems"
+			]
+		},
+		{
+			"institution": "GHS, Marakiwal",
+			"area": "Science",
+			"studyType": "Matriculation",
+			"startDate": "Aug 2012",
+			"endDate": "Aug 2014",
+			"gpa": "57%",
+			"courses": ["Biology / Physics / Chemistry", "Maths / English"]
+		}
 	]
 }
