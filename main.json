@@ -26,5 +26,44 @@
 				"url": "https://github.com/Inambe"
 			}
 		]
-	}
+	},
+	"work": [
+		{
+			"company": "Fiverr, Freelancer",
+			"position": "Full-stack developer",
+			"website": "https://fiverr.com/inambutt",
+			"startDate": "Jul 2016",
+			"endDate": "PRESENT",
+			"summary": "I use Fiverr as a platform to provide my full-stack developer services to people all around the world.",
+			"highlights": [
+				"Level 2 Seller",
+				"130+ orders completed",
+				"4.9/5 rating"
+			]
+		},
+		{
+			"company": "Kamal Tech, Karachi",
+			"position": "Full-stack PHP developer",
+			"website": "",
+			"startDate": "Aug 2017",
+			"endDate": "Jan 2018",
+			"summary": "I joined Kamal Tech, a startup, to complete one of their projects, which I concluded within the given timeline.",
+			"highlights": [
+				"Developed a custom CMS",
+				"Developed several themes for CMS"
+			]
+		},
+		{
+			"company": "E-Adz Creative Solutions, Sialkot",
+			"position": "Full-stack PHP developer",
+			"website": "http://www.e-adz.net",
+			"startDate": "Nov 2016",
+			"endDate": "Aug 2017",
+			"summary": "I joined E-Adz as a junior developer to gain professional experience, where I developed and fixed different kinds of PHP applications.",
+			"highlights": [
+				"Developed 3 CRM applications",
+				"Fixed WordPress websites"
+			]
+		}
+	]
 }
