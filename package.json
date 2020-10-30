@@ -1,0 +1,25 @@
+{
+	"name": "cv",
+	"version": "1.0.0",
+	"description": "",
+	"main": "index.js",
+	"scripts": {
+		"test": "echo \"Error: no test specified\" && exit 1",
+		"start": "make-resume build -w -f main.json",
+		"build": "make-resume build -f main.json --output-dir build"
+	},
+	"repository": {
+		"type": "git",
+		"url": "git+https://github.com/Inambe/cv.git"
+	},
+	"keywords": [],
+	"author": "",
+	"license": "ISC",
+	"bugs": {
+		"url": "https://github.com/Inambe/cv/issues"
+	},
+	"homepage": "https://github.com/Inambe/cv#readme",
+	"devDependencies": {
+		"make-resume": "^1.2.0"
+	}
+}

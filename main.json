@@ -1,0 +1,30 @@
+{
+	"basics": {
+		"name": "Inam Ul Huq",
+		"label": "Software Developer",
+		"picture": "",
+		"email": "inambe.dev@gmail.com",
+		"phone": "+92 340 4678646",
+		"website": "https://inambe.dev",
+		"summary": "<p>Inam is a passionate software developer from Sialkot, Pakistan. He mainly builds Web applications but has built Mobile and Desktop applications too.</p><p>He keeps a close eye on new technologies and trends in the software development world through his GitHub and Twitter accounts, where he also shares his views and insights about them.</p>",
+		"location": {
+			"address": "",
+			"postalCode": "",
+			"city": "",
+			"countryCode": "",
+			"region": ""
+		},
+		"profiles": [
+			{
+				"network": "Twitter",
+				"username": "MeInamUlHuq",
+				"url": "https://twitter.com/MeInamUlHuq"
+			},
+			{
+				"network": "GitHub",
+				"username": "Inambe",
+				"url": "https://github.com/Inambe"
+			}
+		]
+	}
+}
