@@ -88,5 +88,19 @@
 			"gpa": "57%",
 			"courses": ["Biology / Physics / Chemistry", "Maths / English"]
 		}
+	],
+	"awards": [
+		{
+			"title": "2nd best scores",
+			"date": "Aug 2017",
+			"awarder": "GCT, Sialkot",
+			"summary": "My final score in DAE was 2nd best in the whole college."
+		},
+		{
+			"title": "Best Final Year Project",
+			"date": "Aug 2017",
+			"awarder": "Chamber Of Commerce, Sialkot",
+			"summary": "Our group’s Final Year Project won 1st position in the whole Sialkot."
+		}
 	]
 }
