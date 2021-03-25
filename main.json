@@ -115,24 +115,25 @@
 	],
 	"skills": [
 		{
-			"name": "Web apps",
+			"name": "Web",
 			"level": "Expert",
 			"keywords": [
 				"HTML / CSS",
-				"JavaScript / React / Gatsby",
+				"JavaScript",
+				"React / Gatsby / Next.js",
 				"Node.js / Express",
-				"PHP / WordPress / Slim PHP"
+				"PHP / WordPress"
 			]
 		},
 		{
-			"name": "Mobile / Desktop apps",
+			"name": "Mobile / Desktop",
 			"level": "Intermediate",
-			"keywords": ["Flutter / Dart", "Electron"]
+			"keywords": ["Flutter / Dart", "Electron", "Android Java"]
 		},
 		{
-			"name": "Database systems",
+			"name": "Database",
 			"level": "Intermediate",
-			"keywords": ["MongoDB", "xSQL", "Firestore"]
+			"keywords": ["MongoDB", "xSQL", "NoSQL"]
 		},
 		{
 			"name": "Tools",
