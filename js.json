@@ -132,7 +132,7 @@
 		{
 			"name": "Platforms",
 			"level": "Intermediate",
-			"keywords": ["AWS", "Firebase"]
+			"keywords": ["AWS", "Firebase", "Netlify"]
 		},
 		{
 			"name": "Tools",
