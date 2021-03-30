@@ -6,7 +6,8 @@
 	"scripts": {
 		"test": "echo \"Error: no test specified\" && exit 1",
 		"start": "make-resume build -w -f main.json",
-		"build": "make-resume build -f main.json --output-dir build"
+		"start:js": "make-resume build -w -f js.json",
+		"build": "make-resume build -f main.json --output-dir build && make-resume build -f js.json --output-dir build/js"
 	},
 	"repository": {
 		"type": "git",

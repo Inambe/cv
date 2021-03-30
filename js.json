@@ -1,12 +1,12 @@
 {
 	"basics": {
 		"name": "Inam Ul Haq",
-		"label": "Software Developer",
+		"label": "Full-stack JavaScript Developer",
 		"picture": "",
 		"email": "inambe.dev@gmail.com",
 		"phone": "+92 340 4678646",
 		"website": "https://inambe.dev",
-		"summary": "<p>Inam is a passionate software developer from Sialkot, Pakistan. He mainly builds Web applications but has built Mobile and Desktop applications too.</p><p>He keeps a close eye on new technologies and trends in the software development world through his GitHub and Twitter accounts, where he also shares his views and insights about them.</p>",
+		"summary": "<p>Inam is a passionate JavaScript developer from Sialkot, Pakistan. He mainly builds Web applications but has built Mobile and Desktop applications too.</p><p>He keeps a close eye on new technologies and trends in the software development world through his GitHub and Twitter accounts, where he also shares his views and insights about them.</p>",
 		"location": {
 			"address": "",
 			"postalCode": "",
@@ -121,19 +121,18 @@
 				"HTML / CSS",
 				"JavaScript",
 				"React / Gatsby / Next.js",
-				"Node.js / Express",
-				"PHP / WordPress"
+				"Node.js / Express"
 			]
-		},
-		{
-			"name": "Mobile / Desktop",
-			"level": "Intermediate",
-			"keywords": ["Flutter / Dart", "Electron", "Android Java"]
 		},
 		{
 			"name": "Database",
 			"level": "Intermediate",
-			"keywords": ["MongoDB", "xSQL", "NoSQL"]
+			"keywords": ["MongoDB", "[x]SQL"]
+		},
+		{
+			"name": "Platforms",
+			"level": "Intermediate",
+			"keywords": ["AWS", "Firebase"]
 		},
 		{
 			"name": "Tools",
