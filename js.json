@@ -6,7 +6,7 @@
 		"email": "inambe.dev@gmail.com",
 		"phone": "+92 340 4678646",
 		"website": "https://inambe.dev",
-		"summary": "<p>Inam is a passionate JavaScript developer from Sialkot, Pakistan. He mainly builds Web applications but has built Mobile and Desktop applications too.</p><p>He keeps a close eye on new technologies and trends in the software development world through his GitHub and Twitter accounts, where he also shares his views and insights about them.</p>",
+		"summary": "<p>Inam is a passionate software developer. He's been building computer software, particularly Web applications, for more than 3 years now.</p><p>Inam keeps a close eye on new technologies and trends in the software development world through his GitHub and Twitter accounts, where he also shares his views and insights about them.</p>",
 		"location": {
 			"address": "",
 			"postalCode": "",
@@ -34,7 +34,7 @@
 			"website": "https://fiverr.com/inambutt",
 			"startDate": "Jul 2016",
 			"endDate": "PRESENT",
-			"summary": "I use Fiverr as a platform to provide my full-stack developer services to people all around the world.",
+			"summary": "Inam uses Fiverr to provide full-stack developer services to people all around the world.",
 			"highlights": [
 				"Level 2 Seller",
 				"130+ orders completed",
@@ -47,19 +47,19 @@
 			"website": "",
 			"startDate": "Aug 2017",
 			"endDate": "Jan 2018",
-			"summary": "I joined Kamal Tech, a startup, to complete one of their projects, which I concluded within the given timeline.",
+			"summary": "Inam joined Kamal Tech, a startup, to complete one of their projects which he concluded within the given timeline.",
 			"highlights": [
 				"Developed a custom CMS",
 				"Developed several themes for CMS"
 			]
 		},
 		{
-			"company": "E-Adz Creative Solutions, Sialkot",
+			"company": "EAdz Creative Solutions, Sialkot",
 			"position": "Full-stack PHP developer",
 			"website": "http://www.e-adz.net",
 			"startDate": "Nov 2016",
 			"endDate": "Aug 2017",
-			"summary": "I joined E-Adz as a junior developer to gain professional experience, where I developed and fixed different kinds of PHP applications.",
+			"summary": "Inam joined EAdz as a junior software developer which was also his debut in the software development industry. He developed and fixed many different kinds of PHP applications.",
 			"highlights": [
 				"Developed 3 CRM applications",
 				"Fixed WordPress websites"
@@ -91,16 +91,16 @@
 	],
 	"awards": [
 		{
-			"title": "2nd best scores",
+			"title": "2nd best marks",
 			"date": "Aug 2017",
 			"awarder": "GCT, Sialkot",
-			"summary": "My final score in DAE was 2nd best in the whole college."
+			"summary": "Award for 2nd best marks in the whole college."
 		},
 		{
 			"title": "Best Final Year Project",
 			"date": "Aug 2017",
 			"awarder": "Chamber Of Commerce, Sialkot",
-			"summary": "Our group’s Final Year Project won 1st position in the whole Sialkot."
+			"summary": "Best Final Year Project in the whole Sialkot."
 		}
 	],
 	"languages": [
