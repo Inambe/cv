@@ -1,12 +1,12 @@
 {
 	"basics": {
 		"name": "Inam Ul Haq",
-		"label": "Full-stack JavaScript Developer",
+		"label": "Full-stack Web Developer",
 		"picture": "",
 		"email": "inambe.dev@gmail.com",
 		"phone": "+92 340 4678646",
 		"website": "https://inambe.dev",
-		"summary": "<p>Inam is a passionate software developer. He's been building computer software, particularly Web applications, for more than 3 years now.</p><p>Inam keeps a close eye on new technologies and trends in the software development world through his GitHub and Twitter accounts, where he also shares his views and insights about them.</p>",
+		"summary": "Full-stack web developer with 4 years of experience building and provisioning web applications for different customers, maintaining a 98% customer satisfaction rating, and open-source work on Github. <br/> Excellent communication skills and great with comprehending the requirements and details. Inam is now looking for a full-time job in a reputed company to bring his experience and skills to serve the company.",
 		"location": {
 			"address": "",
 			"postalCode": "",
@@ -29,7 +29,7 @@
 	},
 	"work": [
 		{
-			"company": "Fiverr, Freelancer",
+			"company": "Freelancer",
 			"position": "Full-stack developer",
 			"website": "https://fiverr.com/inambutt",
 			"startDate": "Jul 2016",
@@ -43,7 +43,7 @@
 		},
 		{
 			"company": "Kamal Tech, Karachi",
-			"position": "Full-stack PHP developer",
+			"position": "Full-stack developer",
 			"website": "",
 			"startDate": "Aug 2017",
 			"endDate": "Jan 2018",
@@ -76,7 +76,8 @@
 			"gpa": "80.01%",
 			"courses": [
 				"Applied Electronics / Electrical",
-				"Communication Systems"
+				"Communication Systems",
+				"Digital Electronics"
 			]
 		},
 		{
@@ -91,16 +92,14 @@
 	],
 	"awards": [
 		{
-			"title": "2nd best marks",
+			"title": "2nd Best Score (DAE)",
 			"date": "Aug 2017",
-			"awarder": "GCT, Sialkot",
-			"summary": "Award for 2nd best marks in the whole college."
+			"awarder": "GCT, Sialkot"
 		},
 		{
 			"title": "Best Final Year Project",
 			"date": "Aug 2017",
-			"awarder": "Chamber Of Commerce, Sialkot",
-			"summary": "Best Final Year Project in the whole Sialkot."
+			"awarder": "Chamber Of Commerce, Sialkot"
 		}
 	],
 	"languages": [
@@ -138,6 +137,20 @@
 			"name": "Tools",
 			"level": "Expert",
 			"keywords": ["NPM", "Webpack", "Git / Github", "Linux OS"]
+		}
+	],
+	"interests": [
+		{
+			"name": "Operating Systems",
+			"keywords": ["Linux"]
+		},
+		{
+			"name": "Content Creation",
+			"keywords": ["YouTube", "Blogging"]
+		},
+		{
+			"name": "Electronics",
+			"keywords": ["Arduino"]
 		}
 	]
 }
