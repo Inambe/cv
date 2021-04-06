@@ -6,7 +6,7 @@
 	"scripts": {
 		"test": "echo \"Error: no test specified\" && exit 1",
 		"start": "make-resume build -f js.json -t make-resume-theme-compact -w",
-		"build": "make-resume build -f js.json -t make-resume-theme-compact"
+		"build": "make-resume build -f js.json -t make-resume-theme-compact --output-dir build"
 	},
 	"repository": {
 		"type": "git",
