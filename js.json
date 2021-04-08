@@ -6,14 +6,7 @@
 		"email": "inambe.dev@gmail.com",
 		"phone": "+92 340 4678646",
 		"website": "https://inambe.dev",
-		"summary": "Full-stack web developer with 4 years of experience building and provisioning web applications for different customers, maintaining a 98% customer satisfaction rating, and open-source work on Github. <br/> Excellent communication skills and great with comprehending the requirements and details. Inam is now looking for a full-time job in a reputed company to bring his experience and skills to serve the company.",
-		"location": {
-			"address": "",
-			"postalCode": "",
-			"city": "",
-			"countryCode": "",
-			"region": ""
-		},
+		"summary": "Web developer with 4 years of experience building and provisioning web applications for different customers, maintaining a 98% customer satisfaction rating, and open-source work on Github. <br/> Excellent communication skills and great with comprehending the requirements and details. Inam is now looking for a full-time job in a reputed company to bring his experience and skills to serve the company.",
 		"profiles": [
 			{
 				"network": "Twitter",
@@ -141,12 +134,12 @@
 	],
 	"interests": [
 		{
-			"name": "Operating Systems",
-			"keywords": ["Linux"]
-		},
-		{
 			"name": "Content Creation",
 			"keywords": ["YouTube", "Blogging"]
+		},
+		{
+			"name": "Operating Systems",
+			"keywords": ["Linux"]
 		},
 		{
 			"name": "Electronics",
