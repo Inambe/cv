@@ -5,8 +5,8 @@
 	"main": "index.js",
 	"scripts": {
 		"test": "echo \"Error: no test specified\" && exit 1",
-		"start": "make-resume build -f js.json -t make-resume-theme-compact -w",
-		"build": "make-resume build -f js.json -t make-resume-theme-compact --output-dir build"
+		"start": "make-resume build -f teach.json -t make-resume-theme-compact -w",
+		"build": "make-resume build -f teach.json -t make-resume-theme-compact --output-dir build"
 	},
 	"repository": {
 		"type": "git",
@@ -20,6 +20,6 @@
 	},
 	"homepage": "https://github.com/Inambe/cv#readme",
 	"devDependencies": {
-		"make-resume": "^1.2.0"
+		"make-resume": "^1.4.0"
 	}
 }

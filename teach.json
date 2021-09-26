@@ -1,0 +1,176 @@
+{
+	"_meta": {
+		"sections": [
+			{ "key": "skills", "title": "Skills", "used": true },
+			{ "key": "work", "title": "Work", "used": true },
+			{ "key": "education", "title": "Education", "used": true },
+			{ "key": "awards", "title": "Awards", "used": true },
+			{ "key": "volunteer", "title": "Volunteer", "used": true },
+			{ "key": "publications", "title": "Publications", "used": true },
+			{ "key": "languages", "title": "Languages", "used": true },
+			{ "key": "interests", "title": "Interests", "used": true },
+			{ "key": "references", "title": "References", "used": true }
+		]
+	},
+	"basics": {
+		"name": "Inam Ul Haq",
+		"label": "Full-stack Web Developer",
+		"picture": "",
+		"email": "inambe.dev@gmail.com",
+		"phone": "+92 340 4678646",
+		"website": "https://inambe.dev",
+		"summary": "Web developer with 4+ years of experience building and provisioning web applications for different customers, maintaining a 98% customer satisfaction rating, and open-source work on Github. <br/> Excellent communication skills and great with comprehending the requirements and details.",
+		"profiles": [
+			{
+				"network": "Twitter",
+				"username": "MeInamUlHaq",
+				"url": "https://twitter.com/MeInamUlHaq"
+			},
+			{
+				"network": "GitHub",
+				"username": "Inambe",
+				"url": "https://github.com/Inambe"
+			}
+		]
+	},
+	"work": [
+		{
+			"company": "Volgo Point International",
+			"position": "Full-stack developer",
+			"website": "https://www.volgopoint.com",
+			"startDate": "May 2021",
+			"endDate": "PRESENT",
+			"summary": "Inam is currently working full-time at Volgo Point, a multinational company. His responsibilities includes managing several Web Applications and their Severs.",
+			"highlights": [
+				"Linux/Ubuntu Server Adminstration",
+				"PHP / WordPress",
+				"Node.js"
+			]
+		},
+		{
+			"company": "Freelancer",
+			"position": "Full-stack developer",
+			"website": "https://fiverr.com/inambutt",
+			"startDate": "Jul 2016",
+			"endDate": "May 2021",
+			"summary": "Inam uses Fiverr to provide full-stack developer services to people all around the world.",
+			"highlights": [
+				"Level 2 Seller",
+				"130+ orders completed",
+				"4.9/5 rating"
+			]
+		},
+		{
+			"company": "Kamal Tech, Karachi",
+			"position": "Full-stack developer",
+			"website": "",
+			"startDate": "Aug 2017",
+			"endDate": "Jan 2018",
+			"summary": "Inam joined Kamal Tech, a startup, to complete one of their projects which he concluded within the given timeline.",
+			"highlights": [
+				"Developed a custom CMS",
+				"Developed several themes for CMS"
+			]
+		},
+		{
+			"company": "EAdz Creative Solutions, Sialkot",
+			"position": "Full-stack PHP developer",
+			"website": "http://www.e-adz.net",
+			"startDate": "Nov 2016",
+			"endDate": "Aug 2017",
+			"summary": "Inam joined EAdz as a junior software developer which was also his debut in the software development industry. He developed and fixed many different kinds of PHP applications.",
+			"highlights": [
+				"Developed 3 CRM applications",
+				"Fixed WordPress websites"
+			]
+		}
+	],
+	"education": [
+		{
+			"institution": "GCT, Sialkot",
+			"area": "DAE Electronics",
+			"studyType": "Intermediate",
+			"startDate": "Aug 2014",
+			"endDate": "Aug 2017",
+			"gpa": "80.01%",
+			"courses": [
+				"Applied Electronics / Electrical",
+				"Communication Systems",
+				"Digital Electronics"
+			]
+		},
+		{
+			"institution": "GHS, Marakiwal",
+			"area": "Science",
+			"studyType": "Matriculation",
+			"startDate": "Aug 2012",
+			"endDate": "Aug 2014",
+			"gpa": "57%",
+			"courses": ["Biology / Physics / Chemistry", "Maths / English"]
+		}
+	],
+	"awards": [
+		{
+			"title": "2nd Best Score (DAE)",
+			"date": "Aug 2017",
+			"awarder": "GCT, Sialkot"
+		},
+		{
+			"title": "Best Final Year Project",
+			"date": "Aug 2017",
+			"awarder": "Chamber Of Commerce, Sialkot"
+		}
+	],
+	"languages": [
+		{
+			"language": "English",
+			"fluency": "Conversational"
+		},
+		{
+			"language": "Urdu",
+			"fluency": "Fluent"
+		}
+	],
+	"skills": [
+		{
+			"name": "Web",
+			"level": "Expert",
+			"keywords": [
+				"HTML / CSS",
+				"JavaScript",
+				"React",
+				"Node.js",
+				"PHP / WordPress / Laravel"
+			]
+		},
+		{
+			"name": "Database",
+			"level": "Intermediate",
+			"keywords": ["MongoDB", "[x]SQL"]
+		},
+		{
+			"name": "Platforms",
+			"level": "Intermediate",
+			"keywords": ["AWS", "Firebase", "Netlify"]
+		},
+		{
+			"name": "Tools",
+			"level": "Expert",
+			"keywords": ["NPM", "Webpack", "Git / Github", "Linux OS"]
+		}
+	],
+	"interests": [
+		{
+			"name": "Content Creation",
+			"keywords": ["YouTube", "Blogging"]
+		},
+		{
+			"name": "Operating Systems",
+			"keywords": ["Linux"]
+		},
+		{
+			"name": "Electronics",
+			"keywords": ["Arduino"]
+		}
+	]
+}
